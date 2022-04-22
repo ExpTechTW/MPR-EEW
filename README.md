@@ -1,14 +1,18 @@
-# 模板
+# MPR-EEW
 <img alt="Discord" src="https://img.shields.io/discord/926545182407688273">
 
 ------
 
-- 這是一個 ExpTech Github 模板
+- MPR 的 EEW 地震速報 插件
 
 ## 索引
+- [指令](#指令)
 - [貢獻者](#貢獻者)
 - [發佈規則](#發佈規則)
 - [合作](#合作)
+
+## 指令
+- `$EEW here` 設定這個頻道為 EEW 推播頻道
 
 ## 貢獻者
 - whes1015 `文檔`
