@@ -1,5 +1,11 @@
 [
   {
+    "name":"1.1.0",
+    "note":"修正 依賴 的問題",
+    "Pre-Release":false,
+    "reclaimed":false
+  },
+  {
     "name":"1.0.1",
     "note":"修正 無法安裝 的問題",
     "Pre-Release":false,
