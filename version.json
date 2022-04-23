@@ -1,5 +1,11 @@
 [
   {
+    "name":"1.3.0",
+    "note":"修正 崩潰 問題",
+    "Pre-Release":false,
+    "reclaimed":false
+  },
+  {
     "name":"1.2.0",
     "note":"新增 測試 標籤",
     "Pre-Release":false,
