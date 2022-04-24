@@ -1,5 +1,11 @@
 [
   {
+    "name":"1.6.0",
+    "note":"修正 無法驗證 問題",
+    "Pre-Release":false,
+    "reclaimed":false
+  },
+  {
     "name":"1.5.0",
     "note":"修正 無法驗證 問題",
     "Pre-Release":false,
