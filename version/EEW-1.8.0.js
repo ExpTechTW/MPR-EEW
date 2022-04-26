@@ -81,7 +81,6 @@ async function connect() {
     };
 
     ws.onmessage = async function (e) {
-        console.log(e.data.toString())
         let Data = JSON.parse(e.data.toString())
         if (Data.Function == undefined) {
             if (Data.state != "Success") {
