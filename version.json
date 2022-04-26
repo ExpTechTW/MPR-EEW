@@ -1,5 +1,11 @@
 [
   {
+    "name":"1.8.0",
+    "note":"新增 Tag 功能",
+    "Pre-Release":false,
+    "reclaimed":false
+  },
+  {
     "name":"1.7.0",
     "note":"新增 普通地震 推送",
     "Pre-Release":false,
