@@ -35,8 +35,6 @@ var UUID = require('./UUID')
 const reload = require('require-reload')
 let Client
 
-const DB = require('./DataBase')
-
 async function ready(client) {
     if (!fs.existsSync(Path + '/Data/EEW.json')) {
         fs.writeFileSync(Path + '/Data/EEW.json', JSON.stringify({}, null, "\t"), 'utf8')
