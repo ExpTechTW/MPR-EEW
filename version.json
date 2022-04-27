@@ -1,5 +1,11 @@
 [
   {
+    "name":"2.0.0",
+    "note":"使用 DataBase 依賴\n固定 UUID",
+    "Pre-Release":false,
+    "reclaimed":false
+  },
+  {
     "name":"1.8.0",
     "note":"新增 Tag 功能",
     "Pre-Release":false,
