@@ -1,4 +1,10 @@
 [
+   {
+    "name":"2.5.0",
+    "note":"修正地震報告推送問題",
+    "Pre-Release":false,
+    "reclaimed":false
+  },
   {
     "name":"2.0.0",
     "note":"使用 DataBase 依賴\n固定 UUID",
