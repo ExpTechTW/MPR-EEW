@@ -60,7 +60,6 @@ async function messageCreate(client, message) {
 async function connect() {
     var ws = new WebSocket(config.API_WebSocket);
     ws.onopen = function () {
-        let Uuid = UUID.uuid()
         pluginLoader.log("Info >> EEW 已連線 UUID: " + Uuid)
         let Data = {
             "APIkey": "a5ef9cb2cf9b0c14b6ba71d0fc39e329",
@@ -68,9 +67,6 @@ async function connect() {
             "Type": "subscription",
             "FormatVersion": 1,
             "UUID": Uuid
-        }
-        if (config.APIkey != "") {
-            Data["APIkey"] = config.APIkey
         }
         ws.send(JSON.stringify(Data))
     };
