@@ -1,5 +1,11 @@
 [
    {
+    "name":"3.1.0",
+    "note":"await 方法",
+    "Pre-Release":false,
+    "reclaimed":false
+  },
+   {
     "name":"3.0.0",
     "note":"await 方法",
     "Pre-Release":false,
