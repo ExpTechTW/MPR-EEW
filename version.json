@@ -1,5 +1,11 @@
 [
    {
+    "name":"3.2.0",
+    "note":"修正 PGA 崩潰",
+    "Pre-Release":false,
+    "reclaimed":false
+  },
+   {
     "name":"3.1.0",
     "note":"await 方法",
     "Pre-Release":false,
